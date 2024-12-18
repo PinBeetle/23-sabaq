@@ -1,0 +1,75 @@
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.img{
+    width: 458px;
+    height: 306px;
+    top: 2065px;
+    left: 92px;
+    gap: 0px;
+    border-radius: 10px 10px 0px 0px;
+    opacity: 0px;
+}
+.box1{
+    width: 458px;
+}
+.flex{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    font-family: Philosopher;
+font-size: 25px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.p{
+    font-family: Philosopher;
+font-size: 25px;
+font-weight: 700;
+line-height: 24px;
+text-align: right;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.img2{
+    width: 36px;
+height: 34px;
+top: 2480px;
+left: 175px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+}
+.img3{
+    width: 88px;
+height: 16px;
+top: 2483px;
+left: 397px;
+gap: 0px;
+opacity: 0px;
+}
+.list{
+    display: flex;
+    gap: 50px;
+}
+.img1{
+    width: 458px;
+    height: 306px;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+}
+
+.centre{
+    text-align: center;
+}
+
+.color{
+    color: chocolate;
+}
